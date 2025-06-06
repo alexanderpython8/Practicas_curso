@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-private
+-source
+'17'
+-sourcepath
+'C:/Users/Aleja/Desktop/practicas_finales/practicas_finales/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Aleja/Desktop/practicas_finales/practicas_finales/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'practicas_finales 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'practicas_finales 1.0-SNAPSHOT API'
+org.yourcompany.Controlador
+org.yourcompany.Modelo
+org.yourcompany.Vista
+C:\Users\Aleja\Desktop\practicas_finales\practicas_finales\src\main\java = 1749029394721
+C:\Users\Aleja\Desktop\practicas_finales\practicas_finales\target\site\apidocs\allclasses-index.html = 1749034517897
+C:\Users\Aleja\Desktop\practicas_finales\practicas_finales\target\site\apidocs\allpackages-index.html = 1749034517902
+C:\Users\Aleja\Desktop\practicas_finales\practicas_finales\target\site\apidocs\element-list = 1749034517711
+C:\Users\Aleja\Desktop\practicas_finales\practicas_finales\target\site\apidocs\help-doc.html = 1749034517944
+C:\Users\Aleja\Desktop\practicas_finales\practicas_finales\target\site\apidocs\index-all.html = 1749034517934
+C:\Users\Aleja\Desktop\practicas_finales\practicas_finales\target\site\apidocs\index.html = 1749034517872
+C:\Users\Aleja\Desktop\practicas_finales\practicas_finales\target\site\apidocs\member-search-index.js = 1749034517910
+C:\Users\Aleja\Desktop\practicas_finales\practicas_finales\target\site\apidocs\module-search-index.js = 1749034517908
+C:\Users\Aleja\Desktop\practicas_finales\practicas_finales\target\site\apidocs\overview-summary.html = 1749034517938
+C:\Users\Aleja\Desktop\practicas_finales\practicas_finales\target\site\apidocs\overview-tree.html = 1749034517865
+C:\Users\Aleja\Desktop\practicas_finales\practicas_finales\target\site\apidocs\package-search-index.js = 1749034517909
+C:\Users\Aleja\Desktop\practicas_finales\practicas_finales\target\site\apidocs\search.html = 1749034517936
+C:\Users\Aleja\Desktop\practicas_finales\practicas_finales\target\site\apidocs\tag-search-index.js = 1749034517910
+C:\Users\Aleja\Desktop\practicas_finales\practicas_finales\target\site\apidocs\type-search-index.js = 1749034517910
